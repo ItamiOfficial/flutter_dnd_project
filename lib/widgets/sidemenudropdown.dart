@@ -32,9 +32,7 @@ class _DropDownSideMenuEntryState extends State<DropDownSideMenuEntry> {
   @override
   Widget build(BuildContext context) {
     return const InkWell(
-      onTap:() => {
-      
-      },
+
     );
   }
 }
